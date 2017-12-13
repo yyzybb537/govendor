@@ -11,7 +11,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/kardianos/govendor/pkgspec"
+	"pkgspec"
 	"golang.org/x/tools/go/vcs"
 )
 

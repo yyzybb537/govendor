@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/kardianos/govendor/context"
+	"context"
 )
 
 func init() {

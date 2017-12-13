@@ -10,8 +10,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/kardianos/govendor/context"
-	"github.com/kardianos/govendor/vendorfile"
+	"context"
+	"vendorfile"
 )
 
 func init() {

@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/kardianos/govendor/context"
-	"github.com/kardianos/govendor/help"
-	"github.com/kardianos/govendor/prompt"
+	"context"
+	"help"
+	"prompt"
 )
 
 func (r *runner) Modify(w io.Writer, subCmdArgs []string, mod context.Modify, ask prompt.Prompt) (help.HelpMessage, error) {

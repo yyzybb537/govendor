@@ -14,9 +14,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/kardianos/govendor/cliprompt"
-	"github.com/kardianos/govendor/help"
-	"github.com/kardianos/govendor/run"
+	"cliprompt"
+	"help"
+	"run"
 )
 
 func main() {

@@ -12,10 +12,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kardianos/govendor/internal/pathos"
-	"github.com/kardianos/govendor/pkgspec"
-	gvvcs "github.com/kardianos/govendor/vcs"
-	"github.com/kardianos/govendor/vendorfile"
+	"internal/pathos"
+	"pkgspec"
+	gvvcs "vcs"
+	"vendorfile"
 
 	"golang.org/x/tools/go/vcs"
 )

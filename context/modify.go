@@ -18,12 +18,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kardianos/govendor/internal/pathos"
-	os "github.com/kardianos/govendor/internal/vos"
-	"github.com/kardianos/govendor/pkgspec"
-	"github.com/kardianos/govendor/vcs"
-	"github.com/kardianos/govendor/vendorfile"
+	"internal/pathos"
+	os "internal/vos"
+	"pkgspec"
+	"vcs"
+	"vendorfile"
 	"github.com/pkg/errors"
+	_ "coding.net/tedcy/mzfs/src/ketty/nodaemon"
+	"coding.net/tedcy/mzfs/src/ketty"
 )
 
 // OperationState is the state of the given package move operation.
@@ -389,7 +391,7 @@ func (ctx *Context) modifyAdd(pkg *Package, uncommitted bool) error {
 	if pathos.FileStringEquals(src, dest) {
 		return nil
 	}
-	dprintf("add op: %q\n", src)
+	dprintf("add op: %s, %s, %s, %s\n", src, ctx.RootDir, ctx.RootGopath, ctx.RootImportPath)
 
 	// Update vendor file with correct Local field.
 	vp := ctx.VendorFilePackagePath(pkg.Path)
@@ -410,6 +412,8 @@ func (ctx *Context) modifyAdd(pkg *Package, uncommitted bool) error {
 	if pkg.Path != pkg.Local && pkg.inVendor && vp.Add {
 		vp.Origin = pkg.Local
 	}
+
+	dprintf("vp:%s\n", ketty.LogFormat(vp, ketty.Indent))
 
 	// Find the VCS information.
 	system, err := vcs.FindVcs(pkg.Gopath, src)

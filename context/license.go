@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/kardianos/govendor/internal/pathos"
+	"internal/pathos"
 	"github.com/pkg/errors"
 )
 

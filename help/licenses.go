@@ -84,7 +84,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-LICENSE - github.com/kardianos/govendor/vendor/github.com/Bowery/prompt
+LICENSE - vendor/github.com/Bowery/prompt
 The MIT License (MIT)
 
 Copyright (c) 2013-2015 Bowery, Inc.
@@ -107,7 +107,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-LICENSE - github.com/kardianos/govendor/vendor/github.com/dchest/safefile
+LICENSE - vendor/github.com/dchest/safefile
 Copyright (c) 2013 Dmitry Chestnykh <dmitry@codingrobots.com>
 All rights reserved.
 
@@ -135,7 +135,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-COPYING - github.com/kardianos/govendor/vendor/github.com/google/shlex
+COPYING - vendor/github.com/google/shlex
 
                                  Apache License
                            Version 2.0, January 2004
@@ -339,7 +339,7 @@ COPYING - github.com/kardianos/govendor/vendor/github.com/google/shlex
    See the License for the specific language governing permissions and
    limitations under the License.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-LICENSE - github.com/kardianos/govendor/vendor/golang.org/x/tools
+LICENSE - vendor/golang.org/x/tools
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -368,7 +368,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-PATENTS - github.com/kardianos/govendor/vendor/golang.org/x/tools
+PATENTS - vendor/golang.org/x/tools
 Additional IP Rights Grant (Patents)
 
 "This implementation" means the copyrightable works distributed by

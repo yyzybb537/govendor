@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/kardianos/govendor/context"
-	"github.com/kardianos/govendor/pkgspec"
+	"context"
+	"pkgspec"
 )
 
 func init() {

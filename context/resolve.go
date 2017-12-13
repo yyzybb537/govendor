@@ -13,10 +13,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/kardianos/govendor/internal/pathos"
-	filepath "github.com/kardianos/govendor/internal/vfilepath"
-	os "github.com/kardianos/govendor/internal/vos"
-	"github.com/kardianos/govendor/pkgspec"
+	"internal/pathos"
+	filepath "internal/vfilepath"
+	os "internal/vos"
+	"pkgspec"
 )
 
 var knownOS = make(map[string]bool)

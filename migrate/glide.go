@@ -10,8 +10,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/kardianos/govendor/context"
-	"github.com/kardianos/govendor/vendorfile"
+	"context"
+	"vendorfile"
 	"gopkg.in/yaml.v2"
 )
 

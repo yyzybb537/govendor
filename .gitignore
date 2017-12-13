@@ -1,0 +1,10 @@
+vendor/cliprompt
+vendor/context
+vendor/help
+vendor/internal
+vendor/migrate
+vendor/pkgspec
+vendor/prompt
+vendor/run
+vendor/vcs
+vendor/vendorfile

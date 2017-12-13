@@ -27,6 +27,90 @@
 			"revisionTime": "2016-06-27T22:23:52Z"
 		},
 		{
+			"checksumSHA1": "XeIrDxOpt8pXyh+FqWGKVaP8lkQ=",
+			"path": "github.com/yyzybb537/govendor",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "Zt4M8zBytwxSlwH/gxBKQZbaA9M=",
+			"path": "github.com/yyzybb537/govendor/cliprompt",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "MCy+09JmoF02dd0rt81iMSWLPAE=",
+			"path": "github.com/yyzybb537/govendor/context",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "6BOgFOpiGjxBx6IHQ74y5lGm0hg=",
+			"path": "github.com/yyzybb537/govendor/help",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "Ug71ChSj9F4JWECc9Nw6XuqnHpE=",
+			"path": "github.com/yyzybb537/govendor/internal/gt",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "OEe3TaGRgGPjX4McKstiB53W+vU=",
+			"path": "github.com/yyzybb537/govendor/internal/pathos",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "p8dItWoFj2f5W6LHivTfmE2X0qk=",
+			"path": "github.com/yyzybb537/govendor/internal/vfilepath",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "unV1boEXZ9wr0A/bKhn3U2ghOFA=",
+			"path": "github.com/yyzybb537/govendor/internal/vos",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "swn8XauxkRZGBOwMWYYl+iREAmQ=",
+			"path": "github.com/yyzybb537/govendor/migrate",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "dlnPp7iqP2HoCqNPM7ekPunzI9c=",
+			"path": "github.com/yyzybb537/govendor/pkgspec",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "SQyY4Xvmh0Hipg+7MGfNH4dtFSY=",
+			"path": "github.com/yyzybb537/govendor/prompt",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "WzgjN1h+OQwq/rwVC3XGPc3Io4s=",
+			"path": "github.com/yyzybb537/govendor/run",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "1JPRLqXVV5pQGy7GHmAXrojy728=",
+			"path": "github.com/yyzybb537/govendor/vcs",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
+			"checksumSHA1": "7wyf0iwBI0ryIJMjlKHCmm3IqWE=",
+			"path": "github.com/yyzybb537/govendor/vendorfile",
+			"revision": "e81373204c8c77faf77b1f5c4415e08532036387",
+			"revisionTime": "2017-12-13T07:01:07Z"
+		},
+		{
 			"checksumSHA1": "oS0UZOGWVVsVciOQ8nZJ582mFF8=",
 			"path": "golang.org/x/sys/unix",
 			"revision": "9ccfe848b9db8435a24c424abbc07a921adf1df5",
@@ -45,5 +129,5 @@
 			"revisionTime": "2017-04-07T17:21:22Z"
 		}
 	],
-	"rootPath": "github.com/kardianos/govendor"
+	"rootPath": "github.com/yyzybb537/govendor"
 }
